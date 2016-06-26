@@ -6,7 +6,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-
+set background=dark
     hi Normal term=NONE cterm=NONE ctermbg=235 ctermfg=188 gui=NONE guibg=#000000 guifg=#dcdccc
     hi vimIskList term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
     hi vimSynKeyRegion term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
